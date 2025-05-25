@@ -1,4 +1,4 @@
-<img src="https://github.com/labsinal/.github/blob/main/logo_no_bg.png" alt="Labsinal Logo" width="200"/>
+<img src="https://github.com/labsinal/.github/blob/main/logo_no_bg.png" alt="Labsinal Logo" width="800"/>
 
 # Labsinal
 
