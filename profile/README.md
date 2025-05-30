@@ -2,8 +2,6 @@
 
 # Labsinal
 
-> 🇬🇧 English Version
-
 The [Labsinal – Laboratory of Cell Signaling and Plasticity](https://www.ufrgs.br/labsinal/) at the [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/site/) is a multidisciplinary research group composed of biotechnologists, biomedical scientists, biologists, and marine biologists, led by [Prof. Dr. Guido Lenz](http://lattes.cnpq.br/4178667286777514).
 
 Our research focuses on cell biology, molecular biology, and computational biology, with particular emphasis on tumor drug resistance, cell signaling pathways, the development of fluorescence-tagged cells, _in silico_ simulations, and the automation of cell image detection, tracking, and analysis.
